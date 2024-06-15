@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": "1234",
+      "nome": "Jabuticaba",
+      "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/78fe3f5d3bdc4b1f4d6fb7f4558e0aee.jpg",
+      "preco": 25.31
+    },
+    {
+      "id": "567",
+      "nome": "Uva",
+      "imagem": "https://longevidadesaudavel.com.br/wp-content/uploads/2023/08/12.png",
+      "preco": 25.31
+    },
+    {
+      "id": "454",
+      "nome": "Maçã",
+      "preco": "10,55",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjO_IYNGzqEYisdgGGX4RnQfMl9__uWjD7Q&s"
+    },
+    {
+      "id": "454",
+      "nome": "Maçã",
+      "preco": "10,55",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjO_IYNGzqEYisdgGGX4RnQfMl9__uWjD7Q&s"
+    },
+    {
+      "id": "454",
+      "nome": "Maçã",
+      "preco": "10,55",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjO_IYNGzqEYisdgGGX4RnQfMl9__uWjD7Q&s"
+    },
+    {
+      "id": "454",
+      "nome": "Maçã",
+      "preco": "10,55",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjO_IYNGzqEYisdgGGX4RnQfMl9__uWjD7Q&s"
+    }
+  ]
+}
